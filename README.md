@@ -1,4 +1,4 @@
-# AEVB LDA
+# Autoencoding Variational Bayes for Latent Dirichlet Allocation
 
 ##### honours thesis
 ##### Zach Wolpe
